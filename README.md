@@ -1,4 +1,4 @@
-<img src="./03028294-8f99-474a-86ea-5c3bcf4802be.png" width="100%">
+<img src="./first.png" width="100%">
 
 <br>
 
@@ -14,11 +14,11 @@ Currently working on tools, websites and experiments like Xyneria and adan.sh.
 
 <br>
 
-<img src="./3ad9b591-c4ac-4abc-83fb-91f2759c9247.png" width="100%">
+<img src="./second.png" width="100%">
 
 <br>
 
-<img src="./e9334c8c-d5f6-41de-a42c-49ea8037ef66.png" width="100%">
+<img src="./third.png" width="100%">
 
 <br>
 
