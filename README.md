@@ -9,7 +9,7 @@
 <p align="center">
 I'm Mashood, 17.<br>
 I build projects using Python, JavaScript, web design and scripting.<br>
-Currently working on tools, websites and experiments like Xyneria and adan.sh.
+Currently working on tools, websites and experiments like Xyneria and goonblox
 </p>
 
 <br>
