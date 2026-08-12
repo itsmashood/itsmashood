@@ -31,3 +31,5 @@ Currently working on tools, websites and experiments like Xyneria and adan.sh.
 <a href="https://github.com/itsmashood/discord-bot">Discord Bot</a> •
 <a href="https://xyneria.com">Xyneria</a>
 </p>
+
+print
